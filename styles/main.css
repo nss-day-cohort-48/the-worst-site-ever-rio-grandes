@@ -8,4 +8,40 @@ body {
     font-family: 'Pacifico', cursive;
 }
 
+.gary__house {
+    border: 5px solid;
+    align-items: center;
+    padding: 10px;
+    background-color:rgb(0,0,0);
+    background-image:url(http://www.zingerbugimages.com/backgrounds/multi_colored_stars.gif);
+    background-position:top left;
+    background-repeat:repeat;
+    background-attachment:fixed;
 
+}
+
+.gary__roadhouse {
+      text-align: center;
+      color: white;
+}
+
+.gary__sub {
+    text-align: center;
+    color: gold;
+}
+
+
+.dishes {
+    display: inline-block;
+    border: 5px solid;
+    padding: 50px;
+    
+}
+
+.gary__dish {
+
+}
+
+.gary__pics {
+
+}
