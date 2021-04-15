@@ -1,0 +1,21 @@
+.review__imgs {
+    width: 600px;
+    border-radius: 8px;
+}
+.review__div {
+    background-color:purple;
+    width: 600px;
+    border-radius: 8px;
+}
+.yelp__review {
+    margin-left: 200%;
+}
+.gary__photo__review {
+    margin-left:2%;
+}
+.my__comment {
+    padding: 4px;
+}
+.review__start {
+    padding: 10px;
+}
