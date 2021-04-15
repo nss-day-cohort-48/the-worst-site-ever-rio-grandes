@@ -1,4 +1,4 @@
-  
+
   .fade {
     position: relative;
     width: 100%;
@@ -50,3 +50,36 @@
       transform: rotateX(25deg) translateZ(-2500px);
     }
   }
+.contact__info1 {
+display: flex;
+}
+
+.gary__contact1 {
+    background-color:rgb(0,0,0);
+    background-image:url(http://www.zingerbugimages.com/backgrounds/multi_colored_stars.gif);
+    background-position:top left;
+    background-repeat:repeat;
+    background-attachment:fixed;
+    font-family: 'Pacifico', cursive;
+}
+
+.gary__contact__pics1 {
+    max-height: 35rem;
+    margin: 100px;
+}
+
+.greeting {
+    font-size: 90px;
+    text-align: center;
+    color: gold;
+}
+
+.gary__contact2 {
+    background-color: purple;
+}
+
+.disclaimer {
+font-size: 90px;
+color: gold;
+}
+
