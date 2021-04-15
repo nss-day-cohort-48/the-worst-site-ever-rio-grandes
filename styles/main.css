@@ -8,3 +8,82 @@ body {
     font-family: 'Pacifico', cursive;
     flex: wrap; 
 }
+
+.gary__house {
+    border: 5px solid;
+    align-items: center;
+    padding: 10px;
+    background-color:rgb(0,0,0);
+    background-image:url(http://www.zingerbugimages.com/backgrounds/multi_colored_stars.gif);
+    background-position:top left;
+    background-repeat:repeat;
+    background-attachment:fixed;
+
+}
+
+.gary__roadhouse {
+      text-align: center;
+      color: white;
+}
+
+.gary__sub {
+    text-align: center;
+    color: gold;
+}
+
+
+.dishes {
+    display: inline-block;
+    border: 5px solid;
+    padding: 50px;
+    margin: 200px;
+    background-color: gray;
+    border-radius: 50px;
+    
+}
+
+.gary__dish {
+font-size: large;
+}
+
+.gary__pics {
+    max-height: 10rem;
+}
+
+.reviews {
+    display: inline-block;
+    border: 5px solid;
+    padding: 50px;
+    margin-left: 200px;
+    background-color: gray;
+    border-radius: 50px;
+}
+
+.philosophy__poetry {
+    display: inline-block;
+    border: 5px solid;
+    padding: 50px;
+    margin: 200px;
+    background-color: gray;
+    border-radius: 50px;
+}
+
+.contact__info {
+    display: inline-block;
+    border: 5px solid;
+    padding: 50px;
+    margin: 200px;
+    background-color: gray;
+    border-radius: 50px;
+}
+
+.location__hours {
+    display: inline-block;
+    border: 5px solid;
+    padding: 50px;
+    margin: 200px;
+    background-color: gray;
+    border-radius: 50px;
+    margin-left: 1500px;
+}
+
