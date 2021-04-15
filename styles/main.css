@@ -1,7 +1,7 @@
 @import "location.css";
 @import "dishes.css";
 @import "philosophy.css";
-@import "reviews.css";
+@import "./reviews.css";
 
 body {
     background-image: url(https://7wallpapers.net/wp-content/uploads/15_Gary-Busey.jpg);
