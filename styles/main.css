@@ -6,6 +6,5 @@
 body {
     background-image: url(https://7wallpapers.net/wp-content/uploads/15_Gary-Busey.jpg);
     font-family: 'Pacifico', cursive;
+    flex: wrap; 
 }
-
-
