@@ -35,13 +35,53 @@ body {
     display: inline-block;
     border: 5px solid;
     padding: 50px;
+    margin: 200px;
+    background-color: gray;
+    border-radius: 50px;
     
 }
 
 .gary__dish {
-
+font-size: large;
 }
 
 .gary__pics {
+    max-height: 10rem;
+}
 
+.reviews {
+    display: inline-block;
+    border: 5px solid;
+    padding: 50px;
+    margin-left: 200px;
+    background-color: gray;
+    border-radius: 50px;
+}
+
+.philosophy__poetry {
+    display: inline-block;
+    border: 5px solid;
+    padding: 50px;
+    margin: 200px;
+    background-color: gray;
+    border-radius: 50px;
+}
+
+.contact__info {
+    display: inline-block;
+    border: 5px solid;
+    padding: 50px;
+    margin: 200px;
+    background-color: gray;
+    border-radius: 50px;
+}
+
+.location__hours {
+    display: inline-block;
+    border: 5px solid;
+    padding: 50px;
+    margin: 200px;
+    background-color: gray;
+    border-radius: 50px;
+    margin-left: 1500px;
 }
