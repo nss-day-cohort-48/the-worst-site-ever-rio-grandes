@@ -1,3 +1,13 @@
+.review__start {
+    color:black;
+    text-align: start;
+}
+.gary__gif {
+    position: sticky;
+    top:0;
+    float:right;
+    width:25%;
+}
 .review__imgs {
     width: 600px;
     border-radius: 8px;
